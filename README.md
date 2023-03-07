@@ -1,9 +1,7 @@
 # holbertonschool-AirBnB_clone
 
 Working team:
-*Agustin Meriles
 [AgustinMeriles](https://github.com/AgustinMeriles)
-*Esteban Galvan
 [NexoNeko](https://github.com/NexoNeko)
 
 # Content
