@@ -16,9 +16,9 @@
     border-radius: 4px;
     position: relative;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(25%);
     margin-right: 30px;
-    float: right;
+    float:right;
 }
 
 .search-button:hover {
@@ -35,7 +35,7 @@
 .amenities {
     height: 100%;
     width: 25%;
-    float: right;
+    float: left;
 }
 
 .locations h3, .amenities h3 {
