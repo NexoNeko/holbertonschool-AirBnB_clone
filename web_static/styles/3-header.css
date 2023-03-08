@@ -6,7 +6,7 @@ header {
 }
 
 header .logo {
-    background-image: url(../images/logo-Airbnb.png);
+    background-image: url(../images/logo.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left center;
